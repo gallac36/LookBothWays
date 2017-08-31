@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Look Both Ways
+
+  Created by Conor McNinja on 08/03/2013.
+  Copyright (c) 2013 Clarity. All rights reserved.
+*/
+
+
+
+"InverseUniverseText1" = "Inverse Universe allows you to use your phone to explore the worldinverted, either turned upside-down or as a negative image. In 2011 Cleary Connolly collaborated with CLARITY to build two headsets integrating the functions. This project is based on two classic psychological experiments in perceptual adaptation."; 
+
+"InverseUniverseText2" = "In 1897 George Stratton carried out the first experiment, wearing prisms on his glasses for eight days so see if he could adapt to an upside-down world. He did adapt, and finally the world corrected itself in his vision, meaning that once he took the glasses off he had to start the whole process over again. In 1992 Professor Stuart Anstis carried out a similar experiment, inverting thecolour and brightness in a video headset so he could see the world in negative.";
+
+"ColorPathwaysText1" = "Colour Pathways lets you play with the colour channels of your phone's camera. Use the buttons on the right to rewire the channels and the sliders on the left to remix. Human vision is tri-chromatic, and the RGB colour system used in video is roughly similar."; 
+
+"ColorPathwaysText2" = "Richard Gregory - a major figure in the world of perceptive science who died in 2010 - used video as far back as the 1970s to experiment and demonstrate the complex interactions of luminance and colour in the perception of depth, detail and movement. Gregory rewired the video inputs to a television monitor, making a simple and accessible tool for exploring and demonstrating questions of colour perception.";
+
+"TimesliceText" = "Video, like photography, is a flat medium. But unlike photography, video does have a third dimension, not depth, but time. Time Slice allows you to play with this third dimension using your phone. Time Slice is a one of a series of explorations of time-based distortions of live video, made by Cleary & Connolly in collaboration with CLARITY and with the sponsorship of RPA under the title Look Both Ways.";
+
+"MoveingStillText" = "Moving Still allows you to see only what is moving. Anything that is still will be erased, but you will need to hold your phone very very steady.First shown in the Pompidou Centre in 2008, Moving Still is a video installation by Cleary Connolly exploring visual perception of movement with a split screen image. On one side, the computer erases everything that is unchanging, so that the forms of visitors emerge only when they move. On the other side, what moves is erased and only those who stay still will appear in the image along with the surrounding architecture.";

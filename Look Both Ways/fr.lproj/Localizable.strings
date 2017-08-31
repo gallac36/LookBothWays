@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Look Both Ways
+
+  Created by Conor McNinja on 08/03/2013.
+  Copyright (c) 2013 Clarity. All rights reserved.
+*/
+
+
+
+"InverseUniverseText1" = "Inverse Universe vous invite à explorer le monde à l’envers, soit en couleur négative, soit carrément inversé. Cleary & Connolly en collaboration avec CLARITY en 2011 ont créée des casques qui intègrent ces deux fonctions. Le projet s’inspire de deux expériences classiques en psychologie de la perception."; 
+
+"InverseUniverseText2" = "En 1987 George Stratton a porté des lunettes permettant de voire le monde à l’envers, pour 8 jours. Son cerveau s’est bien adapté aux nouvelles conditions visuelles, lui permettant de voir correctement. Quand il a retiré les lunettes il devait tout recommencer.  Professor Stuart Anstis a documenté une expérience semblable en 1992. Il  créée un casque pour voire le monde en négatif et l’a porté pour plusieurs jours.";
+
+"ColorPathwaysText1" = "Colour Pathways vous permet de jouer avec les canaux de couleur de votre appareil de photo. Pour mélanger les canaux utilisez les boutons de droite, et pour doser, utilisez ceux de gauche.";     
+
+"ColorPathwaysText2" = "La vision humaine est tri chromate, et le système colorimétrique utilisé en vidéo est semblable. Richard Gregory (1923-2010), scientifique dans le domaine de la perception, s’est servi de la vidéo dès les années ’70 pour démontrer les interactions complexes de la luminance et de la couleur dans la perception de la profondeur, des détails et du mouvement. Gregory a séparé les canaux de couleur d’un téléviseur pour démontrer les principes de la perception de la couleur.";
+
+"TimesliceText" = "La vidéo, comme la photographie, est un médium «plat», sans profondeur. Mais on peut dire que la vidéo, à l’opposée de la photographie, intègre une troisième dimension : le temps. Time Slice vous permet de jouer ave cette troisième dimension à travers votre téléphone. Ce projet appartient à une série d’œuvres qui explore la vidéo à travers sa relation avec le temps, produit en collaboration avec CLARITY et avec le soutien de la RPA, sous le titre Look Both Ways.";
+
+"MoveingStillText" = "Moving Still vous permet de percevoir que ce qui est en mouvement. Tous ce qui est immobile sera gommé, mais vous devez tenir votre téléphone stable. Montré pour la première fois au Centre Pompidou en 2009, Moving Still est une œuvre vidéo qui explore la perception du mouvement à travers deux images côte à côte. D’un coté, ce qui est en mouvement apparaît et tout ce qui ne bouge pas est gommé. De l’autre coté c’est l’inverse, la caméra ne perçoit pas le mouvement, et il faut rester immobile pour apparaître dans l’image.";
